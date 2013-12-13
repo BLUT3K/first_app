@@ -14,7 +14,5 @@
 /log/*.log
 /tmp
 
-# Ignore this file
+# Ignore this file 
 BADFILE.txt
-
-ping.txt
